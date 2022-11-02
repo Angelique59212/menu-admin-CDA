@@ -15,6 +15,9 @@ body {
 
 /* Menu */
 #left {
+    height: 100vh;
+    resize: horizontal;
+    overflow: scroll;
     width: 20%;
     border: 2px double #7297bd;
     background-color: #29A98B;

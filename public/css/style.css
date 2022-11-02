@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #419581;
+    font-size: 20px;
+}
+
+#title {
+    display: inline;
+}
+
+/* Menu */
+#left {
+    width: 20%;
+    border: 2px double #7297bd;
+    background-color: #29A98B;
+}
+
+h1 , h2 {
+color: #232121;
+}
+
+.title {
+    margin: 1rem;
+}
+
+/* Application */
+.appli {
+    display: inline-block;
+    margin: 0.5rem;
+}
+
+a {
+    color: #2d2a2a;
+}
+
+#main {
+    margin: 0.5rem;
+}
